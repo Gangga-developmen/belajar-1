@@ -554,6 +554,7 @@ video {
   display: none;
 }
 
+<<<<<<< HEAD
 .mt-10 {
   margin-top: 2.5rem;
 }
@@ -562,10 +563,13 @@ video {
   margin-top: 13rem;
 }
 
+=======
+>>>>>>> eddb8cbf31dfdc66622c2fbee5502033fc1d77bc
 .mt-80 {
   margin-top: 20rem;
 }
 
+<<<<<<< HEAD
 .mt-32 {
   margin-top: 8rem;
 }
@@ -576,24 +580,52 @@ video {
 
 .mt-11 {
   margin-top: 2.75rem;
+=======
+.mt-0 {
+  margin-top: 0px;
+}
+
+.mt-7 {
+  margin-top: 1.75rem;
+}
+
+.-mt-72 {
+  margin-top: -18rem;
+}
+
+.mt-72 {
+  margin-top: 18rem;
+>>>>>>> eddb8cbf31dfdc66622c2fbee5502033fc1d77bc
 }
 
 .flex {
   display: flex;
 }
 
+<<<<<<< HEAD
 .h-screen {
   height: 100vh;
+=======
+.h-8 {
+  height: 2rem;
+}
+
+.h-80 {
+  height: 20rem;
+>>>>>>> eddb8cbf31dfdc66622c2fbee5502033fc1d77bc
 }
 
 .w-full {
   width: 100%;
 }
 
+<<<<<<< HEAD
 .w-3\/4 {
   width: 75%;
 }
 
+=======
+>>>>>>> eddb8cbf31dfdc66622c2fbee5502033fc1d77bc
 .items-center {
   align-items: center;
 }
@@ -602,6 +634,7 @@ video {
   justify-content: center;
 }
 
+<<<<<<< HEAD
 .rounded {
   border-radius: 0.25rem;
 }
@@ -661,6 +694,16 @@ video {
 .py-6 {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
+=======
+.bg-cyan-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(6 182 212 / var(--tw-bg-opacity, 1));
+}
+
+.bg-pink-300 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(249 168 212 / var(--tw-bg-opacity, 1));
+>>>>>>> eddb8cbf31dfdc66622c2fbee5502033fc1d77bc
 }
 
 .px-14 {
@@ -668,6 +711,7 @@ video {
   padding-right: 3.5rem;
 }
 
+<<<<<<< HEAD
 .px-32 {
   padding-left: 8rem;
   padding-right: 8rem;
@@ -683,12 +727,27 @@ video {
 
 .text-center {
   text-align: center;
+=======
+.py-7 {
+  padding-top: 1.75rem;
+  padding-bottom: 1.75rem;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.font-extrabold {
+  font-weight: 800;
+>>>>>>> eddb8cbf31dfdc66622c2fbee5502033fc1d77bc
 }
 
 .font-bold {
   font-weight: 700;
 }
 
+<<<<<<< HEAD
 .font-semibold {
   font-weight: 600;
 }
@@ -713,4 +772,14 @@ video {
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+=======
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+}
+
+.text-black {
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0 / var(--tw-text-opacity, 1));
+>>>>>>> eddb8cbf31dfdc66622c2fbee5502033fc1d77bc
 }
